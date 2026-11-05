@@ -1,0 +1,53 @@
+# Opening positions for matches. One per line: Name | moves in SAN.
+# Each opening is played twice in a match, once with each engine as White.
+# Lines are 4-10 plies, well known and roughly balanced.
+Ruy Lopez | e4 e5 Nf3 Nc6 Bb5 a6
+Ruy Lopez, Berlin Defence | e4 e5 Nf3 Nc6 Bb5 Nf6
+Italian Game | e4 e5 Nf3 Nc6 Bc4 Bc5
+Two Knights Defence | e4 e5 Nf3 Nc6 Bc4 Nf6
+Scotch Game | e4 e5 Nf3 Nc6 d4 exd4 Nxd4
+Four Knights Game | e4 e5 Nf3 Nc6 Nc3 Nf6
+Petrov Defence | e4 e5 Nf3 Nf6 Nxe5 d6 Nf3 Nxe4
+Philidor Defence | e4 e5 Nf3 d6 d4 Nf6
+Vienna Game | e4 e5 Nc3 Nf6 f4 d5
+King's Gambit Accepted | e4 e5 f4 exf4 Nf3 g5
+Bishop's Opening | e4 e5 Bc4 Nf6 d3 c6
+Sicilian, Najdorf | e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6
+Sicilian, Dragon | e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6
+Sicilian, Scheveningen | e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nf6 Nc3 d6
+Sicilian, Sveshnikov | e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5
+Sicilian, Taimanov | e4 c5 Nf3 e6 d4 cxd4 Nxd4 Nc6
+Sicilian, Alapin | e4 c5 c3 Nf6 e5 Nd5
+Sicilian, Closed | e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7
+French, Winawer | e4 e6 d4 d5 Nc3 Bb4
+French, Classical | e4 e6 d4 d5 Nc3 Nf6 Bg5 Be7
+French, Advance | e4 e6 d4 d5 e5 c5 c3 Nc6
+French, Tarrasch | e4 e6 d4 d5 Nd2 c5
+Caro-Kann, Classical | e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5
+Caro-Kann, Advance | e4 c6 d4 d5 e5 Bf5
+Pirc Defence | e4 d6 d4 Nf6 Nc3 g6
+Modern Defence | e4 g6 d4 Bg7 Nc3 d6
+Alekhine Defence | e4 Nf6 e5 Nd5 d4 d6 Nf3
+Scandinavian Defence | e4 d5 exd5 Qxd5 Nc3 Qa5
+Queen's Gambit Declined | d4 d5 c4 e6 Nc3 Nf6 Bg5 Be7
+Queen's Gambit Accepted | d4 d5 c4 dxc4 Nf3 Nf6 e3 e6
+Slav Defence | d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4
+Semi-Slav Defence | d4 d5 c4 c6 Nf3 Nf6 Nc3 e6
+Tarrasch Defence | d4 d5 c4 e6 Nc3 c5
+London System | d4 d5 Nf3 Nf6 Bf4 e6 e3 c5
+Colle System | d4 d5 Nf3 Nf6 e3 e6 Bd3 c5
+King's Indian Defence | d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O
+Grünfeld Defence | d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5
+Nimzo-Indian Defence | d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O
+Queen's Indian Defence | d4 Nf6 c4 e6 Nf3 b6 g3 Bb7
+Bogo-Indian Defence | d4 Nf6 c4 e6 Nf3 Bb4+ Bd2 Qe7
+Catalan Opening | d4 Nf6 c4 e6 g3 d5 Bg2 Be7
+Benoni Defence | d4 Nf6 c4 c5 d5 e6 Nc3 exd5 cxd5 d6
+Dutch Defence | d4 f5 g3 Nf6 Bg2 e6 Nf3 Be7
+Benko Gambit | d4 Nf6 c4 c5 d5 b5
+Trompowsky Attack | d4 Nf6 Bg5 e6 e4 h6
+English, Symmetrical | c4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7
+English, Reversed Sicilian | c4 e5 Nc3 Nf6 g3 d5 cxd5 Nxd5
+Réti Opening | Nf3 d5 c4 e6 g3 Nf6 Bg2 Be7
+King's Indian Attack | Nf3 d5 g3 Nf6 Bg2 c5 O-O Nc6
+Bird Opening | f4 d5 Nf3 Nf6 e3 g6
